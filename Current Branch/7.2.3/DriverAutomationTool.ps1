@@ -13620,7 +13620,7 @@ AABJRU5ErkJgggs='))
 	
 	# Windows Version Hash Table
 	$WindowsBuildHashTable = @{
-		'Win11-23H2' = "10.0.21631"
+		'Win11-23H2' = "10.0.22631"
 		'Win11-22H2' = "10.0.21621"
 		'Win11-21H2' = "10.0.22000"
 		'22H2'	     = "10.0.19045.1"
